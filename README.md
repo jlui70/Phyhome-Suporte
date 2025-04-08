@@ -36,7 +36,6 @@ Este repositório foi criado para facilitar o acesso aos vídeos de suporte téc
 
 Caso tenha dúvidas técnicas ou precise de mais suporte:
 
-📧 suporte@phyhome.com.br  
 https://form.jotform.com/Oneconnect_suporte/phyhome
 
 ---
