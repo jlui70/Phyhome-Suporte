@@ -30,14 +30,6 @@ Este repositório foi criado para facilitar o acesso aos vídeos de suporte téc
 - [COMO ACESSAR A OLT PHYHOME FH2100 VIA TERMINAL](https://www.youtube.com/watch?v=CCdwovz_P6E)  
   Tutorial sobre como acessar a OLT Phyhome FH2100 através do terminal.
 
-### 🛠️ Solução de Problemas
-
-*Em breve*
-
-### 📶 Wi-Fi e Segurança
-
-*Em breve*
-
 ---
 
 ## 📬 Contato
@@ -45,7 +37,7 @@ Este repositório foi criado para facilitar o acesso aos vídeos de suporte téc
 Caso tenha dúvidas técnicas ou precise de mais suporte:
 
 📧 suporte@phyhome.com.br  
-🌐 [phyhome.com.br](https://phyhome.com.br)
+https://form.jotform.com/Oneconnect_suporte/phyhome
 
 ---
 
